@@ -5787,7 +5787,8 @@ li.dropdown-submenu.pull-left > ul.dropdown-menu {
 
 /* service #6 */
 .service-6 .col-img {
-	height: 761px;
+	min-height: 967px;
+	height: 100%;
 }
 
 .service-6 .heading {
