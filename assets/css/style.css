@@ -489,6 +489,9 @@ ul.dot-list li i {
     animation: breathe 2s ease-in-out infinite;
   }
 
+.whatsapp-message h4 {
+	margin-bottom: 2px !important;
+}
 .whatsapp-container {
     position: fixed;
     bottom: 25px; /* Ajusta según necesites */
